@@ -138,3 +138,8 @@ ENV/
 
 mysite/__pycache__/
 west/__pycache__/
+
+
+db_sight.sqlite3
+.idea/
+
